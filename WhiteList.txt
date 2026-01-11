@@ -1,0 +1,117 @@
+# AdAway Blocking Hosts File for Japan - Allow List
+# last updated: 2022/12/07
+# allow hosts: 48 entry
+
+# 2mdn.net
+s0.2mdn.net
+
+# ad-v.jp
+web-jp.ad-v.jp
+
+# adzcore.com
+setting.adzcore.com
+
+# amazon-adsystem.com
+aax-fe.amazon-adsystem.com
+c.amazon-adsystem.com
+mads.amazon-adsystem.com
+
+# amazon.co.jp
+aan.amazon.co.jp
+fls-fe.amazon.co.jp
+
+# amazon.com
+device-metrics-us.amazon.com
+
+# ameba.jp
+imgstat.ameba.jp
+
+# app-adforce.jp
+app-adforce.jp
+
+# dartsearch.net
+clickserve.dartsearch.net
+
+# dmm.com
+ad.dmm.com
+
+# doubleclick.net
+ad.doubleclick.net
+pubads.g.doubleclick.net
+
+# facebook.com
+edge-chat.facebook.com
+facebook.com
+m.facebook.com
+staticxx.facebook.com
+
+# fbcdn.net
+fbcdn.net
+scontent-nrt1-1.xx.fbcdn.net
+scontent.xx.fbcdn.net
+static.xx.fbcdn.net
+
+# fbsbx.com
+fbsbx.com
+
+# ggpht.com
+lh3.ggpht.com
+yt3.ggpht.com
+
+# google-analytics.com
+ssl.google-analytics.com
+www.google-analytics.com
+
+# googleadservices.com
+www.googleadservices.com
+
+# googleapis.com
+youtube.googleapis.com
+
+# googlesyndication.com
+pagead2.googlesyndication.com
+
+# googletagmanager.com
+www.googletagmanager.com
+
+# googleusercontent.com
+lh3.googleusercontent.com
+
+# growthbeat.com
+api.growthbeat.com
+
+# growthpush.com
+api.growthpush.com
+
+# kakaku.com
+c.kakaku.com
+
+# line.me
+line.me
+
+# r10.to
+r10.to
+
+# r10s.jp
+api.r10s.jp
+r.r10s.jp
+
+# rakuten.co.jp
+grp10.ias.rakuten.co.jp
+hb.afl.rakuten.co.jp
+rd.rakuten.co.jp
+
+# t.co
+t.co
+
+# tapjoyads.com
+ws.tapjoyads.com
+
+# twitter.com
+analytics.twitter.com
+
+# uliza.jp
+ad-api-v01.uliza.jp
+
+# yimg.jp
+s.yimg.jp
